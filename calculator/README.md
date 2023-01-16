@@ -2,9 +2,10 @@
 This is a simple project that can do basic operations of a calculator.
 
 ## Table of contents: 
-* [Getting started](#getting-started)
-* [H2 header](#h2-header)
-* [H3 header](#h3-header)
+* [Getting started](#Getting started)
+* [Usage](#h2-header)
+* [Examples](#h3-header)
+* [Contact](#h3-header)
 
 
 Getting started: Information on how to set up the project, including any dependencies that need to be installed and any configuration steps that need to be taken.
