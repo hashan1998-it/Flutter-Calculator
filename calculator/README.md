@@ -1,8 +1,8 @@
 # Calculator V1.0: 
 This is a simple project that can do basic operations of a calculator.
 
-# Table of contents: 
-* [H1 header](#h1-header)
+## Table of contents: 
+* [Getting started](#getting-started)
 * [H2 header](#h2-header)
 * [H3 header](#h3-header)
 
