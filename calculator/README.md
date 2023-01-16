@@ -3,7 +3,9 @@ This is a simple project that can do basic operations of a calculator.
 
 # Table of contents
 
-- [Calculator V1.0:](#calculator-v10)
+- [Getting started:](#getting-started)
+- [Usage:](#usage)
+- [Examples:](#examples)
 
 
 Getting started: Information on how to set up the project, including any dependencies that need to be installed and any configuration steps that need to be taken.
