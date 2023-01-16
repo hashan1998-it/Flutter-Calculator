@@ -11,7 +11,8 @@ import 'package:math_expressions/math_expressions.dart';
     if (buttonText == 'C') {
       expression = '';
       resultText = '0';
-    } else if (buttonText == 'DEL') {
+    } 
+    else if (buttonText == 'DEL') {
       try {
         expression = expression.substring(0, expression.length - 1);
       } on RangeError {

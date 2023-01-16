@@ -50,7 +50,7 @@ class _CalculatorState extends State<Calculator> {
     '+',
     '0',
     '.',
-    'ANS',
+    '^',
     '=',
   ];
 

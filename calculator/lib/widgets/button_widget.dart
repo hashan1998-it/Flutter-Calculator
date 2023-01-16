@@ -39,6 +39,6 @@ class _ButtonState extends State<Button> {
         onPressed: () {
           buttonPressed(buttons[index].toString());
         },
-        child: Text(buttons[index]));
+        child: Text(buttons[index],style: const TextStyle(fontSize: 24,fontWeight: FontWeight.w600),),);
   }
 }
